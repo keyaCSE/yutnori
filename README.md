@@ -5,7 +5,7 @@ A polished browser-based version of the traditional Korean board game **Yutnori*
 ## Live Demo
 
 ```text
-[https://keyacse.github.io/yutnori/]
+https://keyacse.github.io/yutnori/
 ```
 
 ## Features
